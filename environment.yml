@@ -1,0 +1,12 @@
+channels:
+  - defaults
+dependencies:
+  - python
+  - jupyter
+  - seaborn
+  - scikit-learn
+  - pandas 
+  - pip
+  - pip:
+     - tensorflow
+
